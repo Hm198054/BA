@@ -2,11 +2,11 @@
 	{
 		"name": "Cop",
 		"unitType": "Sword",
-		"uniqueTo": "Valkyrie Police Academy",
+		"uniqueTo": "Abydos High School",
 		"replaces": "Warrior",
-		"movement": 2,
-		"strength": 8,
-		"cost": 5,
+		"movement": 3,
+		"strength": 35,
+		"cost": 4,
 		"attackSound": "shot"
 	},
 ]
