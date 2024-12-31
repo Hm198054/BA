@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Cop",
+		"unitType": "Sword",
+		"uniqueTo": "Valkyrie Police Academy",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 5,
+		"attackSound": "shot"
+	},
+]
