@@ -1,9 +1,8 @@
 [
 	{
 		"name": "Cop",
-		"unitType": "Sword",
+		"unitType": "Ranged",
 		"uniqueTo": "Abydos High School",
-		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 35,
 		"cost": 4,
