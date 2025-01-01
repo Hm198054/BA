@@ -1,7 +1,7 @@
 [
         {
 		"name": "Cop",
-		"unitType": "Land Ranged",
+		"unitType": "Ranged",
 		"uniqueTo": "Abydos High School",
 		"movement": 3,
 		"strength": 40,
