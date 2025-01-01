@@ -1,11 +1,14 @@
 [
-	{
+        {
 		"name": "Cop",
-		"unitType": "Ranged",
+		"unitType": "Land Ranged",
 		"uniqueTo": "Abydos High School",
 		"movement": 3,
-		"strength": 35,
+		"strength": 40,
+		"rangedStrength": 40,
+		"range": 2,
 		"cost": 4,
 		"attackSound": "shot"
+		"unique": ["Provides +1 production to the tile it is standing on if within your territory", "Provides +1 science to the tile it is standing on if within your territory", "Provides +1 food to the tile it is standing on if within your territory", "Provides +1 culture to the tile it is standing on if within your territory", "Provides +1 gold to the tile it is standing on if within your territory"],
 	},
 ]
