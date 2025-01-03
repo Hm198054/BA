@@ -7,7 +7,7 @@
 		"strength": 40,
 		"rangedStrength": 40,
 		"range": 2,
-		"cost": 4,
+		"cost": 400,
 		"attackSound": "shot"
 		"unique": ["Provides +1 production to the tile it is standing on if within your territory", "Provides +1 science to the tile it is standing on if within your territory", "Provides +1 food to the tile it is standing on if within your territory", "Provides +1 culture to the tile it is standing on if within your territory", "Provides +1 gold to the tile it is standing on if within your territory"],
 	},
