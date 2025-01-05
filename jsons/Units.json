@@ -1,7 +1,7 @@
-[
+[[
         {
 		"name": "Cop",
-		"unitType": "Recon", 
+		"unitType": "Archery", 
 		"uniqueTo": "Abydos High School",
 		"movement": 3,
 		"strength": 40,
@@ -11,4 +11,23 @@
 		"attackSound": "shot"
 		"unique": ["Provides +1 production to the tile it is standing on if within your territory", "Provides +1 science to the tile it is standing on if within your territory", "Provides +1 food to the tile it is standing on if within your territory", "Provides +1 culture to the tile it is standing on if within your territory", "Provides +1 gold to the tile it is standing on if within your territory"],
 	},
-]
+	{
+		"name": "Hoshino",
+		"unitType": "Fighter",
+		"uniqueTo": "Abydos High School",
+		"movement": 3,
+		"strength":55,
+		"cost": 900,
+		"attackSound": "shot"
+	},
+	{
+		"name": "Nekochan",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Abydos High School",
+		"movement": 3,
+		"strength":65,
+		"cost": 1000,
+		"attackSound": "shot"
+	},
+	
+]]
