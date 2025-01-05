@@ -1,7 +1,7 @@
 [
         {
 		"name": "Cop",
-		"unitType": "Ranged", "Recon", "Land Melee",
+		"unitType": "Recon", 
 		"uniqueTo": "Abydos High School",
 		"movement": 3,
 		"strength": 40,
